@@ -1,0 +1,16 @@
+## Interface: 40402
+## Author: plimplom
+## Version: 0.1
+## Title: plimplomGamba
+## Notes: Gamble away your hard earned gold! - Forked from vGambler by Hydra
+## SavedVariables: GambleStats, SavedSettings
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+utils.lua
+config.lua
+state.lua
+core.lua
+ui.lua
