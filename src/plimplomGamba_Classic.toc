@@ -1,6 +1,6 @@
 ## Interface: 11507
 ## Author: plimplom
-## Version: 0.1
+## Version: 1.0.0
 ## Title: plimplomGamba
 ## Notes: Gamble away your hard earned gold! - Forked from vGambler by Hydra
 ## SavedVariables: GambleStats, SavedSettings

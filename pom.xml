@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.plimplom.gamba</groupId>
     <artifactId>Addon</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Server</name>
     <description>Addon</description>
     <packaging>pom</packaging>
