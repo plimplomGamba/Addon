@@ -8,7 +8,7 @@ plimplomGamba.Utils = {}
 
 local reverse = string.reverse
 local split = strsplit
-plimplomGamba.debugMode = true
+plimplomGamba.debugMode = false
 
 function plimplomGamba.Debug(...)
     if plimplomGamba.debugMode then
